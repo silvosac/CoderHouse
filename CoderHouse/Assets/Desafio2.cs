@@ -14,6 +14,9 @@ public class Desafio2 : MonoBehaviour
     public bool curar;
     public bool lastimar;
 
+
+    // comentario para testear GIT
+
     // Start is called before the first frame update
     void Start()
     {
