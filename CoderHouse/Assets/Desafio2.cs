@@ -16,6 +16,7 @@ public class Desafio2 : MonoBehaviour
 
 
     // comentario para testear GIT
+    // aca agrego el personaje
 
     // Start is called before the first frame update
     void Start()
